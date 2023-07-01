@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Vaidya, CSE Student
-- 👀 I’m interested in ComputerVision, CP, WebDevelopment 
+- 👀 I’m interested in ComputerVision and Backend Development 
 - 🌱 I’m currently learning DSA
 
 <!---
