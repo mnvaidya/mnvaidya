@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Vaidya, CSE Student
-- 👀 I’m interested in ComputerVision and Backend Development 
+- 👀 I’m interested in DSA and Backend Development 
 - Currently working on this project - https://eloquent-pudding-4362dd.netlify.app/
 
 <!---
